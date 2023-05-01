@@ -1,4 +1,4 @@
-# My Firefox Css
+# My Firefox CSS
 
 ### Preview:
 
